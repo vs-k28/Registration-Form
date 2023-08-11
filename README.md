@@ -13,6 +13,9 @@ The website has three pages:
 - **Welcome page:** This page is displayed after the user successfully logs in. The page displays a Image and a link to the logout page.
 
 The data entered by the user is stored in a MySQL database. The database contains User table that stores the user's username, email address, and password.
+
+#### Demo : 
+Click the image above or watch the demo video on [YouTube]().
 ## Tech Stack
 
 **Front End:** HTML, CSS, JavaScript, PHP
