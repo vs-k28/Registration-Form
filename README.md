@@ -3,7 +3,7 @@
 
 ### Description : 
 
-This website is a simple registration form website that allows users to register, login, and view a welcome page. The website is made using PHP and MySQL, and it is hosted on a local XAMPP server.
+This website is a simple registration form that allows users to register, login, and view a welcome page. The website is made using PHP and MySQL, and it is hosted on a local XAMPP server.
 
 The website has three pages:
 
@@ -15,10 +15,10 @@ The website has three pages:
 The data entered by the user is stored in a MySQL database. The database contains User table that stores the user's username, email address, and password.
 
 #### Demo : 
-Click the image above or watch the demo video on [YouTube]().
+Click the image above or watch the demo video on [YouTube](https://youtu.be/munXZAf0ccw).
 ## Tech Stack
 
-**Front End:** HTML, CSS, JavaScript, PHP
+**Languages Used:** HTML, CSS, JavaScript, PHP
 
 **IDE:** Visual Studio Code
 
